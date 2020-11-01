@@ -1,0 +1,5 @@
+{
+    "name": "Pytest",
+    "description": "Run python tests",
+    "iconName": "github-logo"
+}

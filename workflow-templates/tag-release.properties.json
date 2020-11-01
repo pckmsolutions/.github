@@ -1,0 +1,5 @@
+{
+    "name": "Update and Tag",
+    "description": "Update setup.cfg and tag release.",
+    "iconName": "github-logo"
+}
